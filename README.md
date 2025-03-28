@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I’m **Chandhini Priya**, a PhD researcher
+# 🔬 Bridging Science & Sustainability 🌍  
 
-<!--
-**Anuchan27/Anuchan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **My work revolves around:**  
+🔹 Turning bacteria into biofuel factories 🛢  
+🔹 Creating nanomaterials that capture sunlight for clean energy ☀  
+🔹 Exploring the intersection of biology, chemistry, and physics 🧪  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently leveling up in: Bioinformatics (because data tells hidden stories!)
+📖 Published Work: [📄 Paper 1](https://doi.org/10.1016/j.matpr.2021.07.169)  
+[📄 Paper 2](https://doi.org/10.3390/catal12050544) 
+
+🌍 Goal: Using science to make energy cleaner and greener!📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/chandhinipriya95)

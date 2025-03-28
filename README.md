@@ -8,7 +8,9 @@
 
 
 📚 Currently leveling up in: Bioinformatics (because data tells hidden stories!)
-📖 Published Work: [📄 Paper 1](https://doi.org/10.1016/j.matpr.2021.07.169)  
-[📄 Paper 2](https://doi.org/10.3390/catal12050544) 
+
+📖 Published Work :
+  - [📄 Paper 1](https://doi.org/10.1016/j.matpr.2021.07.169)  
+  - [📄 Paper 2](https://doi.org/10.3390/catal12050544) 
 
 🌍 Goal: Using science to make energy cleaner and greener!📫 Let’s connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/chandhinipriya95)
